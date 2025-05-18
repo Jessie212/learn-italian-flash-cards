@@ -9,5 +9,7 @@ A python game that helps Italian language learners build their vocabulary and te
 ## Tools
 This desktop app was built using Python 3x, Tkinter, and the Random module.
 
-## Run
-To run the program, click [start game](common-italian-verbs-present-tense.exe)
+## Run the program:
+1. Go to the [downloadable file](https://github.com/Jessie212/learn-italian-flash-cards/blob/main/common-verbs/dist/common-italian-verbs-present-tense.exe).
+2. Click **View raw** to download the application file.
+3. From the application file's location, click the application to run the program.
