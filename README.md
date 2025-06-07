@@ -1,5 +1,5 @@
 # Learn Italian via flash cards
-A python game that helps Italian language learners build their vocabulary and test their knowledge using flash cards.
+An interactive game that helps Italian language learners build their vocabulary and test their knowledge using flash cards.
 
 ![common-verbs-blank](https://github.com/user-attachments/assets/566d8fa0-497c-4dce-8e61-3e2fbbb6a3c6)
 ![common-verbs-input](https://github.com/user-attachments/assets/09673683-c0e7-43eb-8c8b-36613ba1db27)
@@ -7,7 +7,7 @@ A python game that helps Italian language learners build their vocabulary and te
 ![common-verbs-incorrect](https://github.com/user-attachments/assets/5c0996f9-aac9-4a20-bd7d-6443ba0f09aa)
 
 ## Tools
-This desktop app was built using Python 3x, Tkinter, and the Random module.
+This desktop app was built using the Tkinter Python package.
 
 ## Run the program:
 1. Go to the [downloadable file](https://github.com/Jessie212/learn-italian-flash-cards/blob/main/common-verbs/dist/common-italian-verbs-present-tense.exe).
